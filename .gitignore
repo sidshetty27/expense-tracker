@@ -1,0 +1,9 @@
+# Local database and migrated data (generated at runtime)
+expenses.db
+expenses.txt.imported
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
